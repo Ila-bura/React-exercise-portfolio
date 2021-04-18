@@ -2,10 +2,23 @@ h1 {
   text-align: center;
   font-family: "Nunito", sans-serif;
   font-weight: bold;
+  font-size: 72px;
+  color: white;
+  margin-left: 434px;
+  margin-right: 435px;
 }
 
 p {
   font-family: "Nunito", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
+  font-size: 24px;
+  color: white;
+  line-height: 35px;
+  margin-left: 439px;
+  margin-right: 441px;
+}
+.overlay {
+  background: url(/images/overlay.png);
+  background-color: transparent;
 }
