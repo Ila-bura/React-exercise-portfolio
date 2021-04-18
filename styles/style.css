@@ -6,6 +6,7 @@ h1 {
   color: white;
   margin-left: 434px;
   margin-right: 435px;
+  padding-top: 30px;
 }
 
 p {
@@ -17,8 +18,20 @@ p {
   line-height: 35px;
   margin-left: 439px;
   margin-right: 441px;
+  padding-bottom: 40px;
 }
 .overlay {
-  background: url(/images/overlay.png);
+  background-image: url(/images/overlay.png);
   background-color: transparent;
+  text-align: center;
+  padding: 100px, 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 160px, 20px;
+}
+
+.hero h2 {
+  margin-top: 50px;
 }
